@@ -4,8 +4,12 @@
 
 .jumbotron {
     height: 100vh;
+    
 }
 
+.jumbotron-heading{
+    color:black;
+}
 h1 {
     color: #00d8ff
 }
